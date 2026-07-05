@@ -1,0 +1,12 @@
+# Compiled binaries
+lab1/alg
+lab2/lab2
+lab3/lab3
+lab4/main
+
+# Temp files from editors
+tempCodeRunnerFile.cpp
+*~
+
+# macOS
+.DS_Store
